@@ -13,11 +13,19 @@
   "niRateAbove": 0.02,
   "annualAllowance": 60000,
   "lifetimeAllowance": 1073100,
+  "pensionAccessAge": 55,
+  "pensionAccessAgeFrom2028": 57,
+  "pensionAccessChangeDate": "2028-04-06",
+  "taxFreeLumpSumPercent": 0.25,
+  "taxFreeLumpSumMax": 268275,
+  "lumpSumDeathBenefitAllowance": 1073100,
   "notes": {
     "description": "UK Tax Configuration for Pension Calculator",
     "source": "HMRC Official Rates",
     "lifetimeAllowanceNote": "LTA abolished April 2024 but kept for reference",
+    "pensionAccessNote": "NMPA increases from 55 to 57 on 6 April 2028",
+    "lumpSumNote": "LSA replaced lifetime allowance from 6 April 2024",
     "lastUpdatedBy": "localhost",
-    "updateTimestamp": "2025-08-12T19:06:26Z"
+    "updateTimestamp": "2025-08-12T21:02:02Z"
   }
 }
