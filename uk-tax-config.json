@@ -16,6 +16,8 @@
   "notes": {
     "description": "UK Tax Configuration for Pension Calculator",
     "source": "HMRC Official Rates",
-    "lifetimeAllowanceNote": "LTA abolished April 2024 but kept for reference"
+    "lifetimeAllowanceNote": "LTA abolished April 2024 but kept for reference",
+    "lastUpdatedBy": "localhost",
+    "updateTimestamp": "2025-08-12T19:06:26Z"
   }
 }
